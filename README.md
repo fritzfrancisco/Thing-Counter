@@ -16,5 +16,8 @@ It is advised to run the program in a conda environment ([Miniconda](https://doc
 - [PyPylon](https://github.com/basler/pypylon)
 - [Pylon](https://www.baslerweb.com/de/produkte/basler-pylon-camera-software-suite/)
 
+## To-Do
+- Add GUI using [Gooey](https://github.com/chriskiehl/Gooey)
+
 # Contact
 For further questions or suggestions please contact [Fritz Francisco](mailto:fritz.a.francisco@gmail.com) 
