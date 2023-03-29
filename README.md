@@ -5,7 +5,7 @@ A small utility program to estimate the number of small moving objects. The tool
 The general setup consists of a
 - PC or Laptop (preferably running on Linux)
 - Bottom lit tank (ideally white, opaque PVC or PE)
-- USB Camera mounted vertically above the measuring arena (e.g. [Basler acA2040-90um USB 3.0](https://www.baslerweb.com/de/produkte/kameras/flaechenkameras/ace/aca2040-90um/) or Logitech Webcam)
+- USB Camera mounted vertically above the measuring arena (e.g. [Basler acA2040-90um USB 3.0](https://www.baslerweb.com/de/produkte/kameras/flaechenkameras/ace/aca2040-90um/))
 - Round Cylinder which sets the arena in which objects are estimated (ideally white, opaque PVC or PE and with a diameter of ~5 cm)
 
 ## Software
