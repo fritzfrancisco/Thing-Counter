@@ -1,5 +1,5 @@
 # Thing-Counter
-A small utility program to estimate the number of small moving objects. The tool is specifically developed to estimate the number of live prey objects (e.g. Artemia, Daphnia, Moina) for fish husbandry and aquaculture experiments.  
+A small utility program to estimate the number of small moving objects. The tool is specifically developed to estimate the number of live prey objects (e.g. Artemia, Daphnia, Moina) for fish husbandry and behavioral experiments.  
 
 ## Hardware
 The general setup consists of a
